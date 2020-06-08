@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cajero_1er_parcial/1.0.0": {
+        "runtime": {
+          "cajero_1er_parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cajero_1er_parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

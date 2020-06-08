@@ -1,0 +1,11 @@
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\bin\Debug\netcoreapp3.1\cajero_1er_parcial.exe
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\bin\Debug\netcoreapp3.1\cajero_1er_parcial.deps.json
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\bin\Debug\netcoreapp3.1\cajero_1er_parcial.runtimeconfig.json
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\bin\Debug\netcoreapp3.1\cajero_1er_parcial.runtimeconfig.dev.json
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\bin\Debug\netcoreapp3.1\cajero_1er_parcial.dll
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\bin\Debug\netcoreapp3.1\cajero_1er_parcial.pdb
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\obj\Debug\netcoreapp3.1\cajero_1er_parcial.csprojAssemblyReference.cache
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\obj\Debug\netcoreapp3.1\cajero_1er_parcial.AssemblyInfoInputs.cache
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\obj\Debug\netcoreapp3.1\cajero_1er_parcial.AssemblyInfo.cs
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\obj\Debug\netcoreapp3.1\cajero_1er_parcial.dll
+C:\Users\enman\OneDrive\Escritorio\C#\cajero_1er_parcial\cajero_1er_parcial\obj\Debug\netcoreapp3.1\cajero_1er_parcial.pdb
